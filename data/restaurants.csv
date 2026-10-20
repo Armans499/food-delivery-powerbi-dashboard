@@ -1,0 +1,201 @@
+Restaurant_ID,Restaurant_Name,City,Cuisine,Avg_Restaurant_Rating,Is_Chain,Commission_Pct
+R001,Delhi Junction,Pune,North Indian,4.2,Yes,20
+R002,Mumbai Palace,Mumbai,South Indian,3.9,Yes,25
+R003,Urban Darbar,Mumbai,South Indian,4.3,Yes,20
+R004,Madras Darbar,Chennai,Street Food,4.6,No,22
+R005,Classic Treats,Kolkata,North Indian,3.9,No,22
+R006,Classic Express,Delhi,Biryani,3.9,Yes,18
+R007,Grand Express,Bangalore,Burgers,4.6,No,18
+R008,Royal Hub,Chennai,Street Food,4.3,Yes,22
+R009,Tandoor Express,Ahmedabad,Italian,3.8,Yes,18
+R010,Classic Junction,Mumbai,Biryani,4.2,Yes,20
+R011,Desi Café,Ahmedabad,Desserts,3.8,No,20
+R012,Mumbai Junction,Bangalore,Biryani,3.8,Yes,20
+R013,Tasty Café,Hyderabad,Biryani,4.1,No,22
+R014,Urban House,Lucknow,Street Food,3.2,No,18
+R015,Classic Express,Delhi,North Indian,3.3,No,22
+R016,Tandoor Palace,Mumbai,Italian,3.8,No,20
+R017,Tandoor House,Chennai,Desserts,3.6,No,20
+R018,Delhi Dhaba,Delhi,Biryani,4.1,No,25
+R019,Golden Darbar,Ahmedabad,Desserts,3.6,Yes,25
+R020,Grand Bites,Mumbai,North Indian,3.4,Yes,20
+R021,Fresh Bites,Kolkata,Desserts,4.6,No,25
+R022,Hot Junction,Pune,Healthy,3.9,Yes,18
+R023,Classic Junction,Chennai,Street Food,4.0,No,18
+R024,Punjabi Kitchen,Bangalore,Chinese,3.4,No,20
+R025,Grand House,Hyderabad,South Indian,3.8,No,20
+R026,Hot Dhaba,Delhi,Chinese,4.0,Yes,22
+R027,Tandoor Express,Hyderabad,South Indian,3.5,No,20
+R028,Royal Bites,Mumbai,Italian,4.2,No,18
+R029,Classic Treats,Lucknow,Street Food,3.8,Yes,25
+R030,Desi Dhaba,Jaipur,Chinese,3.9,No,20
+R031,Delhi Junction,Jaipur,Biryani,3.8,No,22
+R032,Punjabi Bites,Hyderabad,Street Food,4.7,Yes,20
+R033,Fresh Dhaba,Mumbai,North Indian,4.0,Yes,20
+R034,Urban Bites,Mumbai,North Indian,3.6,Yes,22
+R035,Desi House,Mumbai,Biryani,4.3,No,20
+R036,Fresh Café,Hyderabad,Italian,3.5,Yes,25
+R037,Royal Bites,Kolkata,Biryani,4.1,No,22
+R038,Grand Palace,Bangalore,Healthy,3.2,Yes,18
+R039,Classic Bites,Mumbai,Burgers,3.5,Yes,20
+R040,Tasty Hub,Delhi,Healthy,4.1,Yes,22
+R041,Punjabi Dhaba,Hyderabad,South Indian,4.3,Yes,18
+R042,Grand Kitchen,Chennai,Street Food,4.1,Yes,20
+R043,Punjabi Darbar,Delhi,Healthy,4.0,No,18
+R044,Madras Junction,Delhi,North Indian,3.9,No,22
+R045,Mumbai Palace,Bangalore,Street Food,3.4,No,20
+R046,Spice Corner,Delhi,Biryani,3.7,Yes,22
+R047,Punjabi Dhaba,Mumbai,Italian,3.8,Yes,18
+R048,Grand Treats,Lucknow,South Indian,4.4,Yes,18
+R049,Madras Bites,Chennai,Biryani,4.1,Yes,18
+R050,Mumbai Corner,Pune,Desserts,3.3,No,22
+R051,Urban Junction,Delhi,Burgers,4.1,No,20
+R052,Punjabi Express,Chennai,Pizza,3.8,Yes,18
+R053,Royal Bites,Hyderabad,Italian,3.7,Yes,22
+R054,Tandoor Bites,Mumbai,Burgers,4.2,Yes,22
+R055,Grand Dhaba,Delhi,Healthy,4.4,No,18
+R056,Desi House,Chennai,Street Food,4.4,Yes,20
+R057,Delhi Dhaba,Delhi,South Indian,3.7,Yes,22
+R058,Delhi Express,Delhi,Biryani,3.9,Yes,22
+R059,Tandoor Kitchen,Hyderabad,Pizza,4.1,Yes,25
+R060,Spice Express,Ahmedabad,North Indian,4.4,Yes,22
+R061,Hot Palace,Delhi,Healthy,3.8,No,18
+R062,Hot Kitchen,Mumbai,Chinese,3.9,No,20
+R063,Desi Express,Hyderabad,North Indian,3.6,Yes,22
+R064,Mumbai Bites,Delhi,Biryani,3.5,No,25
+R065,Tandoor Darbar,Lucknow,Chinese,4.3,Yes,20
+R066,Tasty Palace,Ahmedabad,North Indian,4.5,No,25
+R067,Desi Treats,Kolkata,Biryani,4.0,Yes,25
+R068,Urban Darbar,Ahmedabad,Healthy,4.4,No,22
+R069,Urban Kitchen,Bangalore,Biryani,4.1,Yes,25
+R070,Classic Junction,Bangalore,South Indian,3.7,No,25
+R071,Golden Kitchen,Chennai,Street Food,4.1,Yes,22
+R072,Spice Bites,Delhi,Pizza,4.6,No,22
+R073,Madras Corner,Chennai,Burgers,4.0,Yes,25
+R074,Desi Kitchen,Ahmedabad,Biryani,4.6,No,18
+R075,Mumbai Palace,Hyderabad,Street Food,3.0,Yes,22
+R076,Fresh Express,Hyderabad,Burgers,4.3,Yes,22
+R077,Golden Hub,Hyderabad,Desserts,4.0,No,20
+R078,Mumbai Palace,Delhi,Desserts,3.9,Yes,22
+R079,Desi Junction,Bangalore,North Indian,4.0,Yes,25
+R080,Mumbai Express,Kolkata,Italian,3.2,No,25
+R081,Hot Café,Hyderabad,Biryani,3.9,Yes,18
+R082,Golden Bites,Delhi,Italian,4.1,Yes,22
+R083,Tasty Kitchen,Delhi,Biryani,4.6,Yes,20
+R084,Grand Bites,Lucknow,Italian,3.8,No,25
+R085,Urban Palace,Ahmedabad,Italian,3.7,No,25
+R086,Mumbai Palace,Bangalore,Chinese,3.8,Yes,18
+R087,Tasty Palace,Kolkata,Biryani,4.4,No,18
+R088,Punjabi Treats,Pune,South Indian,4.1,No,22
+R089,Fresh Palace,Jaipur,Healthy,3.8,No,25
+R090,Punjabi Junction,Ahmedabad,Healthy,4.2,Yes,22
+R091,Punjabi House,Kolkata,Street Food,4.0,Yes,22
+R092,Urban Junction,Hyderabad,Pizza,4.4,No,22
+R093,Tasty Treats,Ahmedabad,South Indian,3.7,Yes,25
+R094,Royal Hub,Chennai,Biryani,3.9,No,22
+R095,Spice Darbar,Hyderabad,Desserts,3.8,No,25
+R096,Delhi Kitchen,Jaipur,Italian,3.4,No,25
+R097,Desi Hub,Mumbai,Burgers,4.1,No,20
+R098,Madras Café,Hyderabad,Pizza,4.1,Yes,25
+R099,Delhi Treats,Bangalore,Desserts,4.0,No,20
+R100,Spice Hub,Lucknow,Street Food,3.9,Yes,18
+R101,Grand Café,Pune,Chinese,3.4,Yes,18
+R102,Urban Café,Delhi,Burgers,3.8,No,22
+R103,Desi Hub,Kolkata,Desserts,3.9,No,18
+R104,Spice Express,Hyderabad,Street Food,3.7,Yes,18
+R105,Classic Kitchen,Kolkata,North Indian,3.9,Yes,20
+R106,Tasty Darbar,Ahmedabad,Italian,4.2,Yes,25
+R107,Urban Café,Chennai,Italian,4.8,No,22
+R108,Delhi Palace,Delhi,Italian,4.1,Yes,20
+R109,Fresh Kitchen,Lucknow,South Indian,4.1,No,25
+R110,Royal Corner,Bangalore,Biryani,4.0,Yes,18
+R111,Grand House,Chennai,Pizza,3.2,Yes,18
+R112,Mumbai Express,Bangalore,Desserts,4.0,Yes,22
+R113,Grand Café,Mumbai,Desserts,4.0,Yes,25
+R114,Delhi Treats,Lucknow,Healthy,4.9,No,20
+R115,Fresh Dhaba,Chennai,Pizza,3.9,No,25
+R116,Desi Express,Hyderabad,Italian,4.1,Yes,18
+R117,Urban Café,Delhi,Healthy,4.0,No,22
+R118,Tasty Café,Mumbai,Burgers,3.5,Yes,22
+R119,Desi Corner,Kolkata,Burgers,4.5,No,18
+R120,Royal Darbar,Hyderabad,Biryani,4.3,No,25
+R121,Delhi Café,Pune,Biryani,4.3,No,25
+R122,Desi Darbar,Kolkata,South Indian,3.6,No,20
+R123,Golden Café,Bangalore,Italian,4.6,No,25
+R124,Golden Express,Lucknow,Street Food,3.4,No,22
+R125,Royal Palace,Bangalore,Biryani,4.2,Yes,22
+R126,Classic Palace,Mumbai,Street Food,4.9,Yes,20
+R127,Desi Palace,Delhi,Healthy,3.6,No,18
+R128,Urban Express,Ahmedabad,Pizza,3.8,Yes,22
+R129,Tasty Junction,Mumbai,Street Food,4.0,Yes,18
+R130,Mumbai Café,Pune,Chinese,3.8,Yes,18
+R131,Punjabi Café,Pune,Healthy,3.4,No,20
+R132,Grand Café,Lucknow,Pizza,4.0,Yes,18
+R133,Fresh House,Bangalore,South Indian,3.6,Yes,20
+R134,Desi Bites,Delhi,Italian,4.2,Yes,18
+R135,Fresh Corner,Pune,Desserts,3.6,Yes,25
+R136,Desi Corner,Hyderabad,Healthy,4.6,No,22
+R137,Fresh Palace,Pune,North Indian,3.7,Yes,20
+R138,Mumbai Bites,Pune,Pizza,3.9,Yes,20
+R139,Tasty Kitchen,Delhi,South Indian,4.3,No,25
+R140,Desi Kitchen,Chennai,Healthy,3.5,Yes,22
+R141,Royal House,Chennai,Healthy,4.1,Yes,22
+R142,Mumbai Darbar,Kolkata,Italian,4.5,No,18
+R143,Tandoor Junction,Pune,Chinese,3.4,Yes,18
+R144,Fresh Palace,Mumbai,Pizza,4.1,No,25
+R145,Delhi Hub,Mumbai,Pizza,4.1,No,25
+R146,Spice Hub,Hyderabad,Italian,4.3,No,22
+R147,Mumbai Corner,Mumbai,Biryani,3.5,Yes,22
+R148,Punjabi Dhaba,Pune,Chinese,3.5,No,22
+R149,Madras House,Delhi,Italian,4.2,No,18
+R150,Golden Express,Hyderabad,Desserts,4.1,Yes,20
+R151,Desi House,Bangalore,Healthy,4.1,No,18
+R152,Desi Express,Hyderabad,Burgers,4.1,Yes,25
+R153,Mumbai Dhaba,Ahmedabad,North Indian,3.7,No,25
+R154,Golden Corner,Mumbai,Street Food,4.1,No,25
+R155,Desi Dhaba,Kolkata,Biryani,4.1,Yes,22
+R156,Royal Kitchen,Hyderabad,Healthy,3.7,Yes,20
+R157,Hot Hub,Bangalore,North Indian,4.7,Yes,20
+R158,Punjabi Bites,Lucknow,South Indian,4.2,Yes,25
+R159,Hot Palace,Jaipur,Pizza,3.5,No,25
+R160,Urban Café,Ahmedabad,Healthy,4.3,Yes,25
+R161,Hot Palace,Delhi,Italian,3.6,Yes,18
+R162,Golden Dhaba,Delhi,Desserts,4.3,No,18
+R163,Grand Corner,Delhi,Pizza,4.5,No,20
+R164,Golden Express,Hyderabad,Healthy,3.7,No,25
+R165,Delhi Darbar,Jaipur,Biryani,4.4,No,20
+R166,Spice Express,Ahmedabad,Desserts,4.2,No,25
+R167,Punjabi Kitchen,Bangalore,Chinese,4.3,Yes,22
+R168,Royal Dhaba,Ahmedabad,Healthy,4.8,No,18
+R169,Grand House,Chennai,Desserts,3.9,Yes,18
+R170,Golden Corner,Hyderabad,Pizza,3.7,No,18
+R171,Madras Express,Ahmedabad,Street Food,3.6,No,18
+R172,Mumbai House,Pune,Biryani,3.7,No,20
+R173,Royal House,Kolkata,Desserts,4.0,Yes,25
+R174,Tandoor Kitchen,Delhi,Pizza,4.1,Yes,22
+R175,Golden Express,Kolkata,Pizza,4.1,No,20
+R176,Fresh House,Delhi,Desserts,4.3,Yes,20
+R177,Grand Hub,Delhi,Italian,4.0,Yes,25
+R178,Urban Café,Jaipur,Chinese,4.6,No,25
+R179,Tandoor Café,Delhi,North Indian,3.9,No,20
+R180,Fresh Junction,Mumbai,Burgers,4.9,No,22
+R181,Urban Hub,Hyderabad,Pizza,4.3,No,18
+R182,Golden Corner,Delhi,Italian,3.7,No,22
+R183,Desi Kitchen,Mumbai,Desserts,3.6,Yes,25
+R184,Classic Darbar,Ahmedabad,Pizza,4.2,No,20
+R185,Desi House,Pune,Italian,3.9,Yes,18
+R186,Desi Café,Jaipur,North Indian,4.3,Yes,22
+R187,Tandoor Junction,Chennai,South Indian,4.2,No,25
+R188,Classic Dhaba,Delhi,Chinese,4.0,No,22
+R189,Tandoor Café,Ahmedabad,Pizza,3.7,No,22
+R190,Royal Treats,Kolkata,Healthy,3.4,Yes,25
+R191,Golden Bites,Lucknow,Street Food,3.8,No,18
+R192,Punjabi Express,Delhi,South Indian,4.3,No,25
+R193,Royal House,Kolkata,Burgers,4.1,Yes,25
+R194,Golden Corner,Mumbai,Street Food,3.5,Yes,18
+R195,Tandoor Palace,Pune,Healthy,4.1,No,25
+R196,Spice Junction,Mumbai,North Indian,4.2,No,18
+R197,Tasty Hub,Mumbai,Street Food,3.6,No,22
+R198,Madras Corner,Chennai,Street Food,4.1,Yes,25
+R199,Fresh Hub,Chennai,Healthy,4.0,No,18
+R200,Punjabi Café,Chennai,Biryani,3.5,Yes,22
